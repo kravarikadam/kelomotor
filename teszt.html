@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<title>Online jQuery Editor</title>
+<script src="jquery-3.6.3.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+
+<div class="test" style="border: 1px solid red; height: 100px;"></div>
+   
+
+
+
+<script>
+
+let doboz = `
+<div class="kep1" style="height: 20px; border: 1px solid black;">anyad</div>
+<div class="kep2" style="height: 20px; border: 1px solid black;">anyad</div>
+`;
+
+for(i=0; i<3; i++)
+{
+    doboz
+
+}
+
+$(`.test`).html(doboz); 
+
+   /*  $(`.kep1, .kep2, .kep3, .kep4`).each(function() {
+            if (!$(this).html()) {
+            $(this).hide();
+            }
+        }); */
+    </script>
+</body>
+
+</html>

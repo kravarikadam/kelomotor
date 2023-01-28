@@ -1,0 +1,69 @@
+h5 {
+    margin-bottom: 0;
+}
+.navbar-brand img {
+    width: 6.25rem;
+}
+.pt-10 {
+    padding-top: 5.625rem;
+}
+nav, .container{
+    max-width: 62.5rem;
+}
+body, header {
+    background-image: url(img/wall_carbon_5.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+.orange_border{
+    border: 0.1875rem solid rgb(255, 102, 0);
+}
+.bg-orange{
+    background-color: rgb(255, 102, 0);
+}
+.bg-vilagosFekete {
+    background-color: rgb(35, 25, 23);
+}
+.color_orange {
+    color: rgb(255, 102, 0);
+}
+.orange_link {
+    text-decoration: none;
+    color: rgb(255, 102, 0);
+    font-weight: bold;
+}
+.alert-green {
+ background-color: rgb(51, 255, 51);
+}
+.alert-orange {
+    background-color: rgb(255, 102, 0);
+}
+.max_width {
+    max-width: 18.75rem;
+}
+.fs-7 {
+    font-size: smaller;
+}
+.text-indent {
+    text-indent: 1.875rem;
+}
+.link_hover_orange:hover {
+    color: rgb(255, 102, 0) !important;
+}
+.bg-szurke {
+    background-color: rgb(204, 204, 204);
+}
+.min_height {
+    min-height: 2.8125rem;
+}
+.width_100 {
+    width: 100%;
+}
+
+
+
+
+
+
+
